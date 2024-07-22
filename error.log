@@ -1,0 +1,9 @@
+
+ NX  Generating nx:connect-to-nx-cloud
+
+
+ NX   Schema does not support positional arguments. Argument 'MonoRepo\\angular-monorepo' found
+
+
+
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
